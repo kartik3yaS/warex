@@ -9,9 +9,11 @@ password: admin
 ### Installation
 
 1. Clone the repository
-  - git clone https://github.com/kartik3yaS/warex.git
+```bash
+git clone https://github.com/kartik3yaS/warex.git
+```
 
-2. Install dependencies
+3. Install dependencies
 ```bash
 npm install
 ```
