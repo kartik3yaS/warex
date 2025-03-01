@@ -13,7 +13,7 @@ password: admin
 git clone https://github.com/kartik3yaS/warex.git
 ```
 
-3. Install dependencies
+2. Install dependencies
 ```bash
 npm install
 ```
