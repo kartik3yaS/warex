@@ -1,9 +1,10 @@
 # warex
 
 ### ADMIN
-
-- username: admin
-- password: admin
+```bash
+username: admin
+password: admin
+```
 
 ### Installation
 
