@@ -5,6 +5,10 @@
 username: admin
 password: admin
 ```
+### Deployment
+```bash
+https://warex.onrender.com
+```
 
 ### Installation
 
